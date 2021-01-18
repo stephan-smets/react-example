@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+to run a react application you need to install [node.js](https://nodejs.org/en/).
+
 ## Available Scripts
 first install all the required dependencies
 ### `yarn install`
